@@ -9,3 +9,6 @@ https://pan.baidu.com/s/1pOhuqQuBnffzs-jTNDIhew
 
 他可能会参与构建框架或系统架构，以便于更容易编写程序。后端开发人员比前端开发人员花费更多的时间在实现算法和解决问题上。
 192.168.44.128
+
+
+git is great
